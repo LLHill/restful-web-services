@@ -1,0 +1,17 @@
+com\example\demo\repository\AddressRepository.class
+com\example\demo\service\StudentService.class
+com\example\demo\entity\Student.class
+com\example\demo\request\InQueryRequest.class
+com\example\demo\service\MyScheduler.class
+com\example\demo\entity\Subject.class
+com\example\demo\request\CreateStudentRequest.class
+com\example\demo\response\StudentResponse.class
+com\example\demo\controller\StudentController.class
+com\example\demo\repository\SubjectRepository.class
+com\example\demo\service\StudentService$1.class
+com\example\demo\entity\Address.class
+com\example\demo\repository\StudentRepository.class
+com\example\demo\response\SubjectResponse.class
+com\example\demo\RestfulWebServiceApplication.class
+com\example\demo\request\UpdateStudentRequest.class
+com\example\demo\request\CreateSubjectRequest.class
