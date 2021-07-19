@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar out/artifacts/restful_web_services_jar/restful-web-services.jar Dserver.port=$PORT
+web: java $JAVA_OPTS -jar target/restful-web-services-0.0.1-SNAPSHOT.jar Dserver.port=$PORT
